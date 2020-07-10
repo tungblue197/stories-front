@@ -1,0 +1,3 @@
+export const LOGIN_REQUREST = 'LOGIN_REQUREST';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FALTURE = 'LOGIN_FALTURE';
